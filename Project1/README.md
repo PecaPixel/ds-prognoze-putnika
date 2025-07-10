@@ -1,1 +1,0 @@
-Kod ulazi u bazu i okreće rečenicu.
